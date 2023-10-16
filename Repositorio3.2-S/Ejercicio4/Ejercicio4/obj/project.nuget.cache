@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "yG54Bhm9gSjPu4Mgo54LMvlHOYiGk8f71PHUiIuhs4c0OG9rJZLteEL4b2zlJ0qvVXUBh1P5Hmkc7VzW4SNEZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ll Semestre 2023\\Lenguajes\\Semana 7\\repositorio3\\Ejercicio4\\Ejercicio4\\Ejercicio4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\listviewdragdropmanager\\1.2.0\\listviewdragdropmanager.1.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ListViewDragDropManager 1.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ListViewDragDropManager",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
